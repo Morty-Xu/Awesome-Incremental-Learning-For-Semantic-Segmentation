@@ -3,16 +3,16 @@ A list of papers and codes about Incremental/Continual Semantic Segmentation.
 
 ### Incremental Semantic Segmentation
 
-- CoMFormer: Continual Learning in Semantic and Panoptic Segmentation[[paper](https://arxiv.org/abs/2211.13999)] [[code](https://github.com/fcdl94/CoMFormer)] CVPR 2023
-- Continual Semantic Segmentation with Automatic Memory Sample Selection[[paper](https://arxiv.org/abs/2304.05015)] CVPR 2023
-- Endpoints Weight Fusion for Class Incremental Semantic Segmentation[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_Endpoints_Weight_Fusion_for_Class_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf)] CVPR 2023
+- CoMFormer: Continual Learning in Semantic and Panoptic Segmentation[[paper](https://arxiv.org/abs/2211.13999)] [[code](https://github.com/fcdl94/CoMFormer)]. CVPR 2023
+- Continual Semantic Segmentation with Automatic Memory Sample Selection[[paper](https://arxiv.org/abs/2304.05015)]. CVPR 2023
+- Endpoints Weight Fusion for Class Incremental Semantic Segmentation[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_Endpoints_Weight_Fusion_for_Class_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf)]. CVPR 2023
 - SATS: Self-Attention Transfer for Continual Semantic Segmentation[[paper](https://arxiv.org/abs/2203.07667)] [[code](https://github.com/QIU023/SATS_Continual_Semantic_Seg)]. PR 2023 
 - Uncertainty-aware Contrastive Distillation for Incremental Semantic Segmentation[[paper](https://arxiv.org/abs/2203.14098)] [[code](https://github.com/ygjwd12345/UCD)]. TPAMI 2022
 - Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation[[paper](https://arxiv.org/abs/2210.07207)] [[code](https://github.com/dfki-av/AWT-for-CISS)]. WACV 2023
 - Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_Class_Similarity_Weighted_Knowledge_Distillation_for_Continual_Semantic_Segmentation_CVPR_2022_paper.pdf)] [[code](https://github.com/HieuPhan33/REMINDER)]. CVPR 2022
 - Continual Attentive Fusion for Incremental Learning in Semantic Segmentation[[paper](https://arxiv.org/abs/2202.00432)] [[code](https://github.com/ygjwd12345/CAF)]. TMM 2022
-- Self-Training for Class-Incremental Semantic Segmentation[[paper](https://arxiv.org/abs/2012.03362)] TNNLS 2022
-- Decomposed Knowledge Distillation for Class-Incremental Semantic Segmentation[[paper](https://arxiv.org/abs/2210.05941)] [[code](https://github.com/cvlab-yonsei/DKD)] NeurIPS 2022
+- Self-Training for Class-Incremental Semantic Segmentation[[paper](https://arxiv.org/abs/2012.03362)]. TNNLS 2022
+- Decomposed Knowledge Distillation for Class-Incremental Semantic Segmentation[[paper](https://arxiv.org/abs/2210.05941)] [[code](https://github.com/cvlab-yonsei/DKD)]. NeurIPS 2022
 - RBC: Rectifying the Biased Context in Continual Semantic Segmentation[[paper](https://arxiv.org/abs/2203.08404)] [[code](https://github.com/sntc129/RBC)]. ECCV 2022
 - Multi-Domain Incremental Learning for Semantic Segmentation[[paper](https://arxiv.org/abs/2110.12205)] [[code](https://github.com/prachigarg23/MDIL-SS)]. WACV 2022
 - SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning[[paper](https://arxiv.org/abs/2106.11562)] [[code](https://github.com/clovaai/SSUL)]. NeurIPS 2021
