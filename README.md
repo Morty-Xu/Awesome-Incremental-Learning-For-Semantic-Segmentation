@@ -3,6 +3,7 @@ A list of papers and codes about Incremental/Continual Semantic Segmentation.
 
 ### Incremental Semantic Segmentation
 
+- Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Incrementer_Transformer_for_Class-Incremental_Semantic_Segmentation_With_Knowledge_Distillation_Focusing_CVPR_2023_paper.pdf)]. CVPR 2023
 - CoMFormer: Continual Learning in Semantic and Panoptic Segmentation[[paper](https://arxiv.org/abs/2211.13999)] [[code](https://github.com/fcdl94/CoMFormer)]. CVPR 2023
 - Continual Semantic Segmentation with Automatic Memory Sample Selection[[paper](https://arxiv.org/abs/2304.05015)]. CVPR 2023
 - Endpoints Weight Fusion for Class Incremental Semantic Segmentation[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_Endpoints_Weight_Fusion_for_Class_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf)]. CVPR 2023
