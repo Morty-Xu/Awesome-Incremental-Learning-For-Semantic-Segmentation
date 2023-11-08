@@ -3,6 +3,7 @@ A list of papers and codes about Incremental/Continual Semantic Segmentation.
 
 ### Incremental Semantic Segmentation
 
+- Coinseg: Contrast inter-and intra-class representations for incremental segmentation[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_CoinSeg_Contrast_Inter-_and_Intra-_Class_Representations_for_Incremental_Segmentation_ICCV_2023_paper.pdf)] [[code](https://github.com/zkzhang98/coinseg)]. ICCV 2023
 - Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Incrementer_Transformer_for_Class-Incremental_Semantic_Segmentation_With_Knowledge_Distillation_Focusing_CVPR_2023_paper.pdf)]. CVPR 2023
 - CoMFormer: Continual Learning in Semantic and Panoptic Segmentation[[paper](https://arxiv.org/abs/2211.13999)] [[code](https://github.com/fcdl94/CoMFormer)]. CVPR 2023
 - Continual Semantic Segmentation with Automatic Memory Sample Selection[[paper](https://arxiv.org/abs/2304.05015)]. CVPR 2023
@@ -34,6 +35,7 @@ A list of papers and codes about Incremental/Continual Semantic Segmentation.
 - Modeling the Background for Incremental Learning in Semantic Segmentation[[paper](https://arxiv.org/abs/2002.00718)] [[code](https://github.com/fcdl94/MiB)]. CVPR 2020
 - Incremental Learning Techniques for Semantic Segmentation[[paper](https://arxiv.org/abs/1907.13372)] [[code](https://github.com/LTTM/IL-SemSegm)]. ICCV 2019
 
-
+#### Dataset
+- CLVOS23: A Long Video Object Segmentation Dataset for Continual Learning[[paper](https://openaccess.thecvf.com/content/CVPR2023W/CLVision/papers/Nazemi_CLVOS23_A_Long_Video_Object_Segmentation_Dataset_for_Continual_Learning_CVPRW_2023_paper.pdf)] [[dataset](https://github.com/Amir4g/CLVOS23)]
 
 **Survey**
