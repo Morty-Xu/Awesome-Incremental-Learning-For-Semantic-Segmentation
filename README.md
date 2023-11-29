@@ -3,6 +3,7 @@ A list of papers and codes about Incremental/Continual Semantic Segmentation.
 
 ### Incremental Semantic Segmentation
 
+- Inherit With Distillation and Evolve With Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory[[paper](https://ieeexplore.ieee.org/document/10120962)]. TPAMI 2023
 - Coinseg: Contrast inter-and intra-class representations for incremental segmentation[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_CoinSeg_Contrast_Inter-_and_Intra-_Class_Representations_for_Incremental_Segmentation_ICCV_2023_paper.pdf)] [[code](https://github.com/zkzhang98/coinseg)]. ICCV 2023
 - Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Incrementer_Transformer_for_Class-Incremental_Semantic_Segmentation_With_Knowledge_Distillation_Focusing_CVPR_2023_paper.pdf)]. CVPR 2023
 - CoMFormer: Continual Learning in Semantic and Panoptic Segmentation[[paper](https://arxiv.org/abs/2211.13999)] [[code](https://github.com/fcdl94/CoMFormer)]. CVPR 2023
