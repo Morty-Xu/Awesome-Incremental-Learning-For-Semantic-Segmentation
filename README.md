@@ -3,8 +3,12 @@ A list of papers and codes about Incremental/Continual Semantic Segmentation.
 
 ### Incremental Semantic Segmentation
 
+- Continual Segmentation with Disentangled Objectness Learning and Class Recognition[[paper](https://arxiv.org/abs/2403.03477)]. CVPR 2024
+- Gradient-Semantic Compensation for Incremental Semantic Segmentation[[paper](https://arxiv.org/pdf/2307.10822.pdf)]. TMM 2023
 - Inherit With Distillation and Evolve With Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory[[paper](https://ieeexplore.ieee.org/document/10120962)]. TPAMI 2023
 - Coinseg: Contrast inter-and intra-class representations for incremental segmentation[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_CoinSeg_Contrast_Inter-_and_Intra-_Class_Representations_for_Incremental_Segmentation_ICCV_2023_paper.pdf)] [[code](https://github.com/zkzhang98/coinseg)]. ICCV 2023
+- Label-Guided Knowledge Distillation for Continual Semantic Segmentation on 2D Images and 3D Point Clouds[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Label-Guided_Knowledge_Distillation_for_Continual_Semantic_Segmentation_on_2D_Images_ICCV_2023_paper.pdf)] [[code](https://github.com/Ze-Yang/LGKD)]. ICCV 2023
+- Preparing the Future for Continual Semantic Segmentation[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_Preparing_the_Future_for_Continual_Semantic_Segmentation_ICCV_2023_paper.pdf)]. ICCV 2023
 - Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Incrementer_Transformer_for_Class-Incremental_Semantic_Segmentation_With_Knowledge_Distillation_Focusing_CVPR_2023_paper.pdf)]. CVPR 2023
 - CoMFormer: Continual Learning in Semantic and Panoptic Segmentation[[paper](https://arxiv.org/abs/2211.13999)] [[code](https://github.com/fcdl94/CoMFormer)]. CVPR 2023
 - Continual Semantic Segmentation with Automatic Memory Sample Selection[[paper](https://arxiv.org/abs/2304.05015)]. CVPR 2023
@@ -16,6 +20,7 @@ A list of papers and codes about Incremental/Continual Semantic Segmentation.
 - Continual Attentive Fusion for Incremental Learning in Semantic Segmentation[[paper](https://arxiv.org/abs/2202.00432)] [[code](https://github.com/ygjwd12345/CAF)]. TMM 2022
 - Self-Training for Class-Incremental Semantic Segmentation[[paper](https://arxiv.org/abs/2012.03362)]. TNNLS 2022
 - Decomposed Knowledge Distillation for Class-Incremental Semantic Segmentation[[paper](https://arxiv.org/abs/2210.05941)] [[code](https://github.com/cvlab-yonsei/DKD)]. NeurIPS 2022
+- Mining Unseen Classes via Regional Objectness: A Simple Baseline for Incremental Segmentation[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/99b419554537c66bf27e5eb7a74c7de4-Paper-Conference.pdf)] [[code](https://github.com/zkzhang98/MicroSeg)]. NeurIPS 2022
 - RBC: Rectifying the Biased Context in Continual Semantic Segmentation[[paper](https://arxiv.org/abs/2203.08404)] [[code](https://github.com/sntc129/RBC)]. ECCV 2022
 - Multi-Domain Incremental Learning for Semantic Segmentation[[paper](https://arxiv.org/abs/2110.12205)] [[code](https://github.com/prachigarg23/MDIL-SS)]. WACV 2022
 - SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning[[paper](https://arxiv.org/abs/2106.11562)] [[code](https://github.com/clovaai/SSUL)]. NeurIPS 2021
